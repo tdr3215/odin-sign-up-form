@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a mini-project for the [Intermediate HTML and CSS Course of The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form). It consists of creating a static web-page
+This is a mini-project for the [Intermediate HTML and CSS Course of The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form). The task is to create a static web-page consisting of a sign up form using HTML5 and CSS. The design mock-up is included.
 
 ## Tech Stack
 
@@ -14,4 +14,4 @@ This is a mini-project for the [Intermediate HTML and CSS Course of The Odin Pro
 
 ## Mock-up
 
-![alt text](./sign-up-form.png)
+![alt text](./assets/sign-up-form.png)
