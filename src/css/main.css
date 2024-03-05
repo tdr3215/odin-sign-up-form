@@ -9,44 +9,32 @@ body {
 
 main {
   display: flex;
-  height: inherit;
-  flex-direction: row;
+  height: 100vh;
   align-items: center;
+  justify-content: space-between;
 }
 
-section {
-  /* position: relative; */
-  flex-direction: column;
-  align-items: center;
-  height: inherit;
-  width: 100%;
+.banner {
+  justify-content: center;
+  width: 35%;
 }
-
-form {
+.sign-up {
   display: flex;
-  /* height: 100%; */
-  /* flex-direction: column; */
+  align-items: stretch;
+  /* justify-content: stretch; */
   flex-wrap: wrap;
-  padding: 1px auto;
-  align-items: center;
-  justify-content: stretch;
+  gap: 16px;
+  width: 65%;
 }
+
+/* form {
+  justify-content: stretch;
+  flex-wrap: wrap;
+  gap: 16px;
+} */
 .input-group {
   height: 100%;
   display: inline;
-}
-.col {
-  width: 50%;
-  justify-content: center;
-  align-items: center;
-  border: black solid 1px;
-}
-
-.row {
-  margin: auto;
-  height: 33%;
-  /* margin-bottom: 0; */
-  /* overflow: auto; */
 }
 
 /* Utility Classes */
